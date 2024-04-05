@@ -127,3 +127,5 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Maykopr/relacional-database-Mario-freeCodeCamp.git
 git push -u origin main
+git commit -m 'atualizaçao'
+git add .
